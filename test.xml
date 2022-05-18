@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ERP Stock Accounting" >
+  <test name="Login Module">
+    <classes>
+      <class name="testNG_Scripts.LoginModule"/>
+     </classes>
+  </test>
+  <test name="Home Page">
+    <classes>
+      <class name="testNG_Scripts.HomePageModule"/>
+    </classes>
+  </test>
+</suite>
