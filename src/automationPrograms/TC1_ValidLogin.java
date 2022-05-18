@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class TC1_ValidLogin {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// This testcase related Login to the ERP Application
 		
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		
