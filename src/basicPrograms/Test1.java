@@ -7,6 +7,7 @@ public class Test1 {
 		
 		System.out.println("Hello, This is my Java Project");
 		System.out.println("This is the second line");
+		System.out.println("This line is added from Eclipse");
 
 	}
 
